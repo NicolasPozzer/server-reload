@@ -12,8 +12,8 @@ public class PingService {
 
     private static final List<String> URLs_TO_PING = Arrays.asList(
             "https://google.com",
-            //"https://ping-server-reload.onrender.com",
-            "https://project-nico.onrender.com"
+            "https://project-nico.onrender.com",
+            "https://ping-server-reload.onrender.com"
     );
 
     @Scheduled(fixedRate = 240000) // 15000 milisegundos = 15 segundos
