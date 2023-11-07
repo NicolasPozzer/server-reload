@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.demo.serverreload.ServerReloadApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.712 s - in com.demo.serverreload.ServerReloadApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.657 s - in com.demo.serverreload.ServerReloadApplicationTests

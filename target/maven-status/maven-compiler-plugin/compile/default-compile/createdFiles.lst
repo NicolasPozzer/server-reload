@@ -1,3 +1,3 @@
-com\demo\serverreload\service\PingService.class
 com\demo\serverreload\controller\GasolController.class
+com\demo\serverreload\service\PingComponent.class
 com\demo\serverreload\ServerReloadApplication.class
